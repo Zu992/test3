@@ -9,5 +9,8 @@ eighth line
 nineth line
 tenth line echo
 12 line
+<<<<<<< HEAD
 
 new branch 13line
+=======
+>>>>>>> 3ef7a828002c43475093c6768788def72d31aa32
